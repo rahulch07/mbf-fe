@@ -1,0 +1,96 @@
+p{
+    margin: 0px;
+}
+.bg-img{
+    /* background-image: 'logistics.jpg'; */
+    background-repeat: no-repeat;
+    position: relative;
+}
+.moto{
+    /* font-size: 70px; */
+    color: whitesmoke;
+    height: 95vh;
+    /* position: relative;
+    top: 20px; */
+    position: absolute;
+    top: 60%;
+}
+.big-font{
+    font-size: 3vw;
+}
+.normal-font{
+    font-size: 2vw;
+}
+.small-font{
+    font-size: 1.5vw;
+}
+.moto p, ul{
+    /* margin-top: 50vh; */
+    margin-left: 8vw;
+    margin-bottom: 0;
+}
+.services-box{
+    margin: 20px 0px 20px 0px;
+    padding: 0 8vw 0 8vw;
+    /* height: 15vh; */
+}
+.feature-list{
+        /* border: 10px;
+        background-color: #ffffff; */
+}
+.service-list{
+    display: flex;
+    justify-content: space-between;
+}
+.service-list li{
+    font-size: 2vw;
+}
+.service-card-row{
+    display: flex;
+    justify-content: space-between;
+}
+.service-card{
+    border-radius: 10px;
+    background-color: #ffffff;
+    height: 75%;
+    padding: 10px;
+    margin: 10px 5px 10px 5px;
+}
+.client-list-box{
+    margin-left: 8vw;
+    margin-right: 8vw;
+}
+.client-row{
+
+}
+.client-row p{
+    font-size: 2vw;
+    text-align: center;
+}
+.client-row img{
+    display: block;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+}
+.client-box{
+    justify-content: center;
+}
+.contact-details{
+    margin: 20px 0px 20px 0px;
+    padding: 0px 7vw 0px 7vw;
+}
+.contact-card{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.emailAndNumber{
+    display: flex;
+}
+.number{
+    margin-left: 50px;
+}
+.address{
+    margin-top: 20px;
+}
