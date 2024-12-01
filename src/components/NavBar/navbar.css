@@ -1,0 +1,24 @@
+.navbarr {
+  /* height: 50px; */
+  /* background-color: blue; */
+}
+.navbar {
+  /* display: flex;
+  justify-content: space-between; */
+  /* background-color: #22177A !important; */
+}
+.brand {
+  display: flex;
+  margin-left: 10px;
+}
+.brand-name {
+  font-size: 35px;
+  margin-top: -10px
+}
+.brand-name a{
+    text-decoration: none;
+    color: black;
+}
+.options{
+    justify-content: end;
+}
