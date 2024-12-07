@@ -96,14 +96,8 @@ export default function Home() {
                 <div className="number">
                   <p className="normal-font">Ph numbers:</p>
                   <p className="small-font">Helpdesk: +91 8928260095</p>
-                  <p className="small-font">Sunita Sukaye: +91 8108484723</p>
+                  <p className="small-font">Sunita S: +91 8108484723</p>
                 </div>
-              </div>
-              <div className="address">
-                <p className="normal-font">Address: </p>
-                <p className="small-font">
-                  701, Sai Mauli CHS, Dombivli East, 421201, Sate-Maharashtra
-                </p>
               </div>
             </div>
           </div>
