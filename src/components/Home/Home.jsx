@@ -35,7 +35,7 @@ export default function Home() {
               Our Services:
             </p>
             <div>
-              <div className="row">
+              {/* <div className="row">
                 <div className="col-md-4 normal-font">
                   <p className="service-card">
                     ATM & Assets packing & Movements.
@@ -49,22 +49,22 @@ export default function Home() {
                     ATM & Assets scrapping services.
                   </p>
                 </div>
-              </div>
+              </div> */}
               <div className="row">
                 <div className="col-md-4 normal-font">
                   <p className="service-card">Inventory Management.</p>
                 </div>
                 <div className="col-md-4 normal-font">
-                  <p className="service-card">TIS Support.</p>
+                  <p className="service-card">Intercity Logistics.</p>
                 </div>
                 <div className="col-md-4 normal-font">
-                  <p className="service-card">Warehouse support.</p>
+                  <p className="service-card">Ticket Booking.</p>
                 </div>
               </div>
               <div className="row">
                 <div className="col-md-4 normal-font">
                   <p className="service-card">
-                    ATM painting/Color customization.
+                    Travel Planning.
                   </p>
                 </div>
               </div>
@@ -72,7 +72,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="client-list-box">
+        {/* <div className="client-list-box">
           <div className="big-font">Our clients:</div>
           <div className="client-list">
             <div className="row client-row">
@@ -82,7 +82,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         <div id="contactUs" className="contact-details">
           <div className="contact-card">
             <p className="big-font">Contact Us</p>
